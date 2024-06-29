@@ -6,5 +6,5 @@ This SQL based database was a meant be a clone of instagram real-life dataset an
 - Performance 🐬 It Optimizes query performance through indexing, query optimization, caching, and efficient storage management.
 - Backup and Recovery 🐬 The schema offers reliable backup and restore mechanism to prevent data loss and ensure quick recovery in case of failures.
 # TECHNICAL STACK 🧱
-Primary Language: SQL
-Databases: MYSQL WORKBENCH, POSTGRESQL, MONGODB
+- Primary Language: SQL
+- Databases: MYSQL WORKBENCH, POSTGRESQL, MONGODB
